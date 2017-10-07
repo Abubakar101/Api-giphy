@@ -2,11 +2,9 @@
 
 ### :sunny: Cheer App! Part deux, the Giphening!!!
 
-##### We've built a cool giphy app, now lets make it better!
 
-**BUT, First things first:**
 
-#### Retype the quotes app from the lecture notes in the quotes-forms-start app to gain some muscle memory. Before you roll your eyes and say 'Giph us a break!' rememeber that the best way to learn a new technology is reps!
+
 
 #### Your task is:
 
